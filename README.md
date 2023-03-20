@@ -1,4 +1,9 @@
-# HOW THE CALCULATOR WORK?
+# About
+
+<p>This is a simple calculator. Use this basic calculator online for math with addition, subtraction, division, multiplication and modulus.</p>
+
+<p>Control the calculator using keyboard or number. </p>
+<h3>What Are the Functions on the Calculator?</h3>
 
 
 <ul>
@@ -12,7 +17,10 @@
 
 <li>Type 5 for modulus </ls>
 </ul>
-<h2>Procedure:</h2>
+
+
+
+<h2>How to Use Basic Calculator Operations</h2>
 
 <p>Step 1. The user will type the 2 number the num1 and the num2.</p>
 
